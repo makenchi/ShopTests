@@ -1,0 +1,7 @@
+F:\Makenchi's Dungeon\Projetos\Visual Studio\amzSuggestions\amzSuggestions\bin\Debug\amzSuggestions.exe.config
+F:\Makenchi's Dungeon\Projetos\Visual Studio\amzSuggestions\amzSuggestions\bin\Debug\amzSuggestions.exe
+F:\Makenchi's Dungeon\Projetos\Visual Studio\amzSuggestions\amzSuggestions\bin\Debug\amzSuggestions.pdb
+F:\Makenchi's Dungeon\Projetos\Visual Studio\amzSuggestions\amzSuggestions\obj\Debug\amzSuggestions.csproj.CoreCompileInputs.cache
+F:\Makenchi's Dungeon\Projetos\Visual Studio\amzSuggestions\amzSuggestions\obj\Debug\amzSuggestions.exe
+F:\Makenchi's Dungeon\Projetos\Visual Studio\amzSuggestions\amzSuggestions\obj\Debug\amzSuggestions.pdb
+F:\Makenchi's Dungeon\Projetos\Visual Studio\amzSuggestions\amzSuggestions\obj\Debug\amzSuggestions.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+F:\Makenchi's Dungeon\Projetos\Visual Studio\amzSuggestions\amzFreshPromo\obj\Debug\amzFreshPromo.csproj.AssemblyReference.cache
+F:\Makenchi's Dungeon\Projetos\Visual Studio\amzSuggestions\amzFreshPromo\obj\Debug\amzFreshPromo.csproj.CoreCompileInputs.cache
+F:\Makenchi's Dungeon\Projetos\Visual Studio\amzSuggestions\amzFreshPromo\bin\Debug\amzFreshPromo.exe.config
+F:\Makenchi's Dungeon\Projetos\Visual Studio\amzSuggestions\amzFreshPromo\bin\Debug\amzFreshPromo.exe
+F:\Makenchi's Dungeon\Projetos\Visual Studio\amzSuggestions\amzFreshPromo\bin\Debug\amzFreshPromo.pdb
+F:\Makenchi's Dungeon\Projetos\Visual Studio\amzSuggestions\amzFreshPromo\obj\Debug\amzFreshPromo.exe
+F:\Makenchi's Dungeon\Projetos\Visual Studio\amzSuggestions\amzFreshPromo\obj\Debug\amzFreshPromo.pdb
